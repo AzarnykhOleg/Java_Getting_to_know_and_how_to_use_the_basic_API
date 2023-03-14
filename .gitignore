@@ -21,3 +21,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea/compiler.xml
+
+.idea/
+
+*.iml
+
+Lesson_02/
+
+out/production/Java_Getting_to_know_and_how_to_use_the_basic_API/file.txt
+
+out/production/Java_Getting_to_know_and_how_to_use_the_basic_API/bubblesort.txt
+
+out/production/Java_Getting_to_know_and_how_to_use_the_basic_API/
+
+file.txt
